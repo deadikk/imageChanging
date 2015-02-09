@@ -1,0 +1,26 @@
+c:\documents and settings\sdi\мои документы\visual studio 2010\Projects\image_changing\image_changing\bin\Debug\image_changing.exe
+c:\documents and settings\sdi\мои документы\visual studio 2010\Projects\image_changing\image_changing\bin\Debug\image_changing.pdb
+c:\documents and settings\sdi\мои документы\visual studio 2010\Projects\image_changing\image_changing\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\sdi\мои документы\visual studio 2010\Projects\image_changing\image_changing\obj\x86\Debug\image_changing.Form1.resources
+c:\documents and settings\sdi\мои документы\visual studio 2010\Projects\image_changing\image_changing\obj\x86\Debug\image_changing.Properties.Resources.resources
+c:\documents and settings\sdi\мои документы\visual studio 2010\Projects\image_changing\image_changing\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+c:\documents and settings\sdi\мои документы\visual studio 2010\Projects\image_changing\image_changing\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+c:\documents and settings\sdi\мои документы\visual studio 2010\Projects\image_changing\image_changing\obj\x86\Debug\image_changing.exe
+c:\documents and settings\sdi\мои документы\visual studio 2010\Projects\image_changing\image_changing\obj\x86\Debug\image_changing.pdb
+C:\Users\DDK\Downloads\Projects\Projects\image_changing\image_changing\obj\x86\Debug\image_changing.exe
+C:\Users\DDK\Downloads\Projects\Projects\image_changing\image_changing\obj\x86\Debug\image_changing.pdb
+C:\Users\DDK\Downloads\Projects\Projects\image_changing\image_changing\bin\Debug\image_changing.exe
+C:\Users\DDK\Downloads\Projects\Projects\image_changing\image_changing\bin\Debug\image_changing.pdb
+C:\Users\DDK\Downloads\Projects\Projects\image_changing\image_changing\obj\x86\Debug\image_changing.csprojResolveAssemblyReference.cache
+C:\Users\DDK\Downloads\Projects\Projects\image_changing\image_changing\obj\x86\Debug\image_changing.Form1.resources
+C:\Users\DDK\Downloads\Projects\Projects\image_changing\image_changing\obj\x86\Debug\image_changing.Properties.Resources.resources
+C:\Users\DDK\Downloads\Projects\Projects\image_changing\image_changing\obj\x86\Debug\image_changing.csproj.GenerateResource.Cache
+C:\Users\Дима\Documents\Visual Studio 2013\Projects\image_changing\image_changing\obj\x86\Debug\image_changing.exe
+C:\Users\Дима\Documents\Visual Studio 2013\Projects\image_changing\image_changing\obj\x86\Debug\image_changing.pdb
+C:\Users\Дима\Documents\Visual Studio 2013\Projects\image_changing\image_changing\obj\x86\Debug\image_changing.csprojResolveAssemblyReference.cache
+C:\Users\Дима\Documents\Visual Studio 2013\Projects\image_changing\image_changing\obj\x86\Debug\image_changing.Form1.resources
+C:\Users\Дима\Documents\Visual Studio 2013\Projects\image_changing\image_changing\obj\x86\Debug\image_changing.Properties.Resources.resources
+C:\Users\Дима\Documents\Visual Studio 2013\Projects\image_changing\image_changing\obj\x86\Debug\image_changing.csproj.GenerateResource.Cache
+C:\Users\Дима\Documents\Visual Studio 2013\Projects\image_changing\image_changing\bin\Debug\image_changing.exe
+C:\Users\Дима\Documents\Visual Studio 2013\Projects\image_changing\image_changing\bin\Debug\image_changing.pdb
+C:\Users\Дима\Documents\Visual Studio 2013\Projects\image_changing\image_changing\bin\Debug\image_changing.exe.config

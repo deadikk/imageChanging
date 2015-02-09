@@ -1,0 +1,11 @@
+C:\Documents and Settings\sdi\мои документы\visual studio 2010\Projects\image_changing\image_changing\bin\Release\image_changing.exe
+C:\Documents and Settings\sdi\мои документы\visual studio 2010\Projects\image_changing\image_changing\bin\Release\image_changing.pdb
+C:\Documents and Settings\sdi\мои документы\visual studio 2010\Projects\image_changing\image_changing\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\sdi\мои документы\visual studio 2010\Projects\image_changing\image_changing\obj\x86\Release\image_changing.Form1.resources
+C:\Documents and Settings\sdi\мои документы\visual studio 2010\Projects\image_changing\image_changing\obj\x86\Release\image_changing.Properties.Resources.resources
+C:\Documents and Settings\sdi\мои документы\visual studio 2010\Projects\image_changing\image_changing\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\sdi\мои документы\visual studio 2010\Projects\image_changing\image_changing\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\sdi\мои документы\visual studio 2010\Projects\image_changing\image_changing\obj\x86\Release\image_changing.exe
+C:\Documents and Settings\sdi\мои документы\visual studio 2010\Projects\image_changing\image_changing\obj\x86\Release\image_changing.pdb
+C:\Users\DDK\Downloads\Projects\Projects\image_changing\image_changing\obj\x86\Release\image_changing.exe
+C:\Users\DDK\Downloads\Projects\Projects\image_changing\image_changing\obj\x86\Release\image_changing.pdb
