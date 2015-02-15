@@ -9,3 +9,12 @@ C:\Documents and Settings\sdi\мои документы\visual studio 2010\Proje
 C:\Documents and Settings\sdi\мои документы\visual studio 2010\Projects\image_changing\image_changing\obj\x86\Release\image_changing.pdb
 C:\Users\DDK\Downloads\Projects\Projects\image_changing\image_changing\obj\x86\Release\image_changing.exe
 C:\Users\DDK\Downloads\Projects\Projects\image_changing\image_changing\obj\x86\Release\image_changing.pdb
+C:\GitHub\imageChanging\image_changing\bin\Release\image_changing.exe.config
+C:\GitHub\imageChanging\image_changing\obj\x86\Release\image_changing.exe
+C:\GitHub\imageChanging\image_changing\obj\x86\Release\image_changing.pdb
+C:\GitHub\imageChanging\image_changing\bin\Release\image_changing.exe
+C:\GitHub\imageChanging\image_changing\bin\Release\image_changing.pdb
+C:\GitHub\imageChanging\image_changing\obj\x86\Release\image_changing.csprojResolveAssemblyReference.cache
+C:\GitHub\imageChanging\image_changing\obj\x86\Release\image_changing.Form1.resources
+C:\GitHub\imageChanging\image_changing\obj\x86\Release\image_changing.Properties.Resources.resources
+C:\GitHub\imageChanging\image_changing\obj\x86\Release\image_changing.csproj.GenerateResource.Cache

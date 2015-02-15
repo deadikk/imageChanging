@@ -339,6 +339,7 @@
             // graph1
             // 
             this.graph1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.graph1.InitialImage = global::image_changing.Properties.Resources.logo;
             this.graph1.Location = new System.Drawing.Point(1, 428);
             this.graph1.Name = "graph1";
             this.graph1.Size = new System.Drawing.Size(372, 193);

@@ -40,6 +40,10 @@ namespace image_changing
        
        private void draw_graph(Bitmap image, bool target) {
 
+           Task t = Task.Factory.StartNew(() => {
+
+               Color cl2;
+
             int theBiggest = 0;
             int[] red=new int[256];
             int[] green = new int[256];
@@ -51,10 +55,10 @@ namespace image_changing
                 for (int j = 0; j < image.Height; j++)
                 {
 
-                    cl = image.GetPixel(i, j);
-                    red[cl.R]++;
-                    green[cl.G]++;
-                    blue[cl.B]++;
+                    cl2 = image.GetPixel(i, j);
+                    red[cl2.R]++;
+                    green[cl2.G]++;
+                    blue[cl2.B]++;
 
                 }
             }
@@ -94,14 +98,15 @@ namespace image_changing
                 for (int j = 1; j < ((green[i] * green[i]) / theBiggest); j++)
                 {
 
-                    graphBm.SetPixel(i, graphBm.Height-j, Color.Green);
+                    graphBm.SetPixel(i, graphBm.Height - j, Color.Green);
 
                 }
 
                 for (int j = 1; j < ((blue[i] * blue[i]) / theBiggest); j++)
                 {
 
-                    graphBm.SetPixel(i, graphBm.Height-j, Color.Blue);
+                    graphBm.SetPixel(i, graphBm.Height - j, Color.Blue);
+                    
 
                 }
 
@@ -110,6 +115,7 @@ namespace image_changing
 
             if (!target) graph1.Image = graphBm;
             else graph2.Image = graphBm;
+           });
         }
 
         private void filter_1() {
@@ -118,9 +124,12 @@ namespace image_changing
 
             for (int i = 0; i < sourceBm.Width; i++) {
 
-                for (int j = 0; j < sourceBm.Height; j++) {
 
-                    cl=sourceBm.GetPixel(i, j);
+
+                for (int j = 0; j < sourceBm.Height; j++)
+                {
+
+                    cl = sourceBm.GetPixel(i, j);
                     //************************
 
                     cl = Color.FromArgb((cl.R + cl.G + cl.B) / 3, (cl.R + cl.G + cl.B) / 3, (cl.R + cl.G + cl.B) / 3);
@@ -129,7 +138,7 @@ namespace image_changing
                     //************************
 
                     resultBm.SetPixel(i, j, cl);
-                
+
                 }
             }
             bufferBm = resultBm;
