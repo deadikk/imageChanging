@@ -19,7 +19,7 @@ namespace image_changing
         }
 
         
-
+        //test comment
         Bitmap sourceBm, bufferBm;
         bool enable = false;
         OpenFileDialog openFile = new OpenFileDialog();

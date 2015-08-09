@@ -18,3 +18,6 @@ C:\GitHub\imageChanging\image_changing\obj\x86\Release\image_changing.csprojReso
 C:\GitHub\imageChanging\image_changing\obj\x86\Release\image_changing.Form1.resources
 C:\GitHub\imageChanging\image_changing\obj\x86\Release\image_changing.Properties.Resources.resources
 C:\GitHub\imageChanging\image_changing\obj\x86\Release\image_changing.csproj.GenerateResource.Cache
+C:\Users\deadi\Documents\GitHubVisualStudio\imageChanging\image_changing\bin\Release\image_changing.exe.config
+C:\Users\deadi\Documents\GitHubVisualStudio\imageChanging\image_changing\obj\x86\Release\image_changing.exe
+C:\Users\deadi\Documents\GitHubVisualStudio\imageChanging\image_changing\obj\x86\Release\image_changing.pdb
